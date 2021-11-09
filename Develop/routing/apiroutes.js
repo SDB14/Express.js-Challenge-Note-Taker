@@ -9,7 +9,17 @@ router.get("/notes", function(req,res){
 })
 
 
+router.post("/notes", function(req,res){
+    let newNote={
+        title: req.body.title,
+        text: req.body.text,
+        id: Math.floor(Math.random()*1000)
+    }
 
+    database.push(newNote)
+    fs.writeFileSync("./db/db.json",JSON.stringify(database))
+    res.json(database)
+})
 
 
 module.exports=router
