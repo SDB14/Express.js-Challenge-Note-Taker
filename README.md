@@ -11,11 +11,11 @@
 ## Description
 AS A small business owner, I WANT to be able to write and save notes, SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-<img src="./public/assets/css/landingpg.png">
+<img src="develop/public/assets/css/landingpg.png">
 
-<img src="./public/assets/css/addnote.png">
+<img src="develop/public/assets/css/addnote.png">
 
-<img src="./public/assets/css/savenote.png">
+<img src="develop/public/assets/css/savenote.png">
 
 ## Installation
 Open with integrated terminal and type node server.js
