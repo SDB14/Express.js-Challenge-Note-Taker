@@ -13,7 +13,8 @@ AS A small business owner, I WANT to be able to write and save notes, SO THAT I 
 
 <img src="public/assets/css/landingpg.png">
 
-<img src="public/assets/css/addnote.png">
+<img src="public/assets/css/addnote.png">![landingpg](https://user-images.githubusercontent.com/87543474/141537584-c76b2469-dafe-4be3-9db0-d5b2e9e6f203.PNG)
+
 
 <img src="public/assets/css/savenote.png">
 
