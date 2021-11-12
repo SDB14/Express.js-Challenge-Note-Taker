@@ -11,12 +11,10 @@
 ## Description
 AS A small business owner, I WANT to be able to write and save notes, SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-<img src="public/assets/css/landingpg.png">
+![landingpg](https://user-images.githubusercontent.com/87543474/141537584-c76b2469-dafe-4be3-9db0-d5b2e9e6f203.PNG)
+![addnote](https://user-images.githubusercontent.com/87543474/141537675-709e079e-e91e-46d5-b174-984bc8de9b80.PNG)
+![savenote](https://user-images.githubusercontent.com/87543474/141537690-ef3e1e97-6d0a-4cd6-b606-885d8935fbc7.PNG)
 
-<img src="public/assets/css/addnote.png">![landingpg](https://user-images.githubusercontent.com/87543474/141537584-c76b2469-dafe-4be3-9db0-d5b2e9e6f203.PNG)
-
-
-<img src="public/assets/css/savenote.png">
 
 ## Installation
 Open with integrated terminal and type node server.js
